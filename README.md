@@ -34,13 +34,13 @@ https://archive.org/details/@chris85?query=ubuntu-repo </br>
 [Ubuntu 13.04 (Raring Ringtail)](https://archive.org/details/ubuntu-repo-raring-ringtail-13.04-20210305) .[torrent](https://dn721903.ca.archive.org/0/items/ubuntu-repo-raring-ringtail-13.04-20210305/ubuntu-repo-raring-ringtail-13.04-20210305_archive.torrent)</br>
 [Ubuntu 13.10 (Saucy Salamander)](https://archive.org/details/ubuntu-repo-saucy-salamander-13.10-20210305) .[torrent](https://ia803403.us.archive.org/3/items/ubuntu-repo-saucy-salamander-13.10-20210305/ubuntu-repo-saucy-salamander-13.10-20210305_archive.torrent) </br>
 Ubuntu 14.04.5 LTS (Trusty Tahr) .torrent</br>
-[Ubuntu 14.10 (Utopic Unicorn)](https://archive.org/details/ubuntu-repo-utopic-unicorn-14.10-20210306) .[torrent]</br>
-[Ubuntu 15.04 (Vivid Vervet)](https://archive.org/download/ubuntu-repo-vivid-vervet-15.04-20210306) .[torrent]</br>
-[Ubuntu 15.10 (Wily Werewolf)](https://archive.org/download/ubuntu-repo-wily-werewolf-15.10-20210307) .[torrent]</br>
+[Ubuntu 14.10 (Utopic Unicorn)](https://archive.org/details/ubuntu-repo-utopic-unicorn-14.10-20210306) .torrent</br>
+[Ubuntu 15.04 (Vivid Vervet)](https://archive.org/download/ubuntu-repo-vivid-vervet-15.04-20210306) .torrent</br>
+[Ubuntu 15.10 (Wily Werewolf)](https://archive.org/download/ubuntu-repo-wily-werewolf-15.10-20210307) .torrent</br>
 Ubuntu 16.04.6 LTS (Xenial Xerus) .torrent</br>
-[Ubuntu 16.10 (Yakkety Yak)](https://archive.org/download/ubuntu-repo-yakkety-yak-16.10-20210307) .[torrent]</br>
-[Ubuntu 17.04 (Zesty Zapus)](https://archive.org/download/ubuntu-repo-zesty-zapus-17.04-20210308) .[torrent]</br>
-[Ubuntu 17.10 (Artful Aardvark)](https://archive.org/download/ubuntu-repo-artful-aardvark-17.10-20210310) [.torrent]</br>
+[Ubuntu 16.10 (Yakkety Yak)](https://archive.org/download/ubuntu-repo-yakkety-yak-16.10-20210307) .torrent</br>
+[Ubuntu 17.04 (Zesty Zapus)](https://archive.org/download/ubuntu-repo-zesty-zapus-17.04-20210308) .torrent</br>
+[Ubuntu 17.10 (Artful Aardvark)](https://archive.org/download/ubuntu-repo-artful-aardvark-17.10-20210310) .torrent</br>
 Ubuntu 18.04.5 LTS (Bionic Beaver) .torrent</br>
 Ubuntu 18.10 (Cosmic Cuttlefish) .torrent</br>
 Ubuntu 19.04 (Disco Dingo) .torrent</br>
