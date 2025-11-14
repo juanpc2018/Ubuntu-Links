@@ -71,6 +71,7 @@ https://stackoverflow.com/questions/130894/how-to-build-a-debian-ubuntu-package-
 https://askubuntu.com/questions/1462919/how-to-download-entire-ubuntu-software-repository-in-to-the-cache-for-easy-offli </br>
 https://askubuntu.com/questions/1463556/apt-mirror-has-finished-downloading-the-archive-what-now-where-from-here-to-us/1463567#1463567 </br>
 https://askubuntu.com/questions/974/how-can-i-install-software-or-packages-without-internet-offline </br>
+https://www.veeble.com/kb/sources-list-file-urls-ubuntu/ </br>
 https://serverspace.io/support/help/configure-repositories-on-ubuntu-20-04/ </br>
 https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-kernel-master-recompile-it-and-boot-it-wi/49349237#49349237 </br>
 https://askubuntu.com/questions/1330539/the-cleanest-way-to-compile-ubuntu-from-scratch </br>
