@@ -12,7 +12,8 @@ https://ftpmirror.your.org/pub/ubuntu/cdimage/releases/ </br>
 
 ## Repo
 
-https://archive.org/details/@chris85?query=ubuntu-repo </br>
+[query=ubuntu-repo](https://archive.org/details/@chris85?query=ubuntu-repo) </br>
+[query=ubuntu+repo](https://archive.org/details/@chris85?query=ubuntu+repo) </br>
 
 [Ubuntu 4.10 (Warty Warthog)](https://archive.org/details/ubuntu-repo-warty-warthog-4.10-20210116) .[torrent](https://ia601507.us.archive.org/6/items/ubuntu-repo-warty-warthog-4.10-20210116/ubuntu-repo-warty-warthog-4.10-20210116_archive.torrent)</br>
 [Ubuntu 5.04 (Hoary Hedgehog)](https://archive.org/details/ubuntu-repo-hoary-hedgehog-5.04-20210116) .[torrent](https://ia800203.us.archive.org/32/items/ubuntu-repo-hoary-hedgehog-5.04-20210116/ubuntu-repo-hoary-hedgehog-5.04-20210116_archive.torrent)</br>
