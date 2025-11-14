@@ -64,6 +64,7 @@ https://sourceforge.net/projects/portable/files/64bit/ </br>
 
 ## How to
 
+https://github.com/juanpc2018/How-to-make-an-offline-portable-repository-for-Ubuntu </br>
 https://wiki.ubuntu.com/Kernel/SourceCode </br>
 https://stackoverflow.com/questions/130894/how-to-build-a-debian-ubuntu-package-from-source </br>
 https://askubuntu.com/questions/1462919/how-to-download-entire-ubuntu-software-repository-in-to-the-cache-for-easy-offli </br>
