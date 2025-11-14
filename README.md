@@ -62,6 +62,9 @@ Ubuntu 24.10 (Oracular Oriole) .torrent</br>
 https://portablelinuxgames.org/?allPackages </br>
 https://sourceforge.net/projects/portable/files/ </br>
 https://sourceforge.net/projects/portable/files/64bit/ </br>
+https://github.com/lutris/lutris </br>
+https://github.com/Heroic-Games-Launcher </br>
+https://github.com/rpcs3 </br>
 
 ## How to
 
