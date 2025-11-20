@@ -80,5 +80,6 @@ https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-
 https://askubuntu.com/questions/1330539/the-cleanest-way-to-compile-ubuntu-from-scratch </br>
 gem5 has tutorials how to compile 32-Bit Ubuntu </br>
 https://cirosantilli.com/linux-kernel-module-cheat/#buildroot-hello-world </br>
+https://buildroot.org/downloads/manual/manual.html [Downloads](https://buildroot.org/downloads/) </br>
 [wiki](https://en.wikipedia.org/wiki/Gem5).[0](https://www.gem5.org/documentation/general_docs/architecture_support/).[00](https://gem5bootcamp.github.io/gem5-bootcamp-env/modules/using%20gem5/index/).[1](https://www.gem5.org/documentation/gem5-stdlib/x86-full-system-tutorial).[2](https://vlsiarch.ecen.okstate.edu/gem5/).[3](https://www.gem5.org/documentation/learning_gem5/part1/simple_config/) </br>
 https://askubuntu.com/questions/64731/installing-apt-cacher-server-for-two-ubuntu-versions/70644#70644 </br>
