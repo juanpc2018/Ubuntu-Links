@@ -79,5 +79,6 @@ https://serverspace.io/support/help/configure-repositories-on-ubuntu-20-04/ </br
 https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-kernel-master-recompile-it-and-boot-it-wi/49349237#49349237 </br>
 https://askubuntu.com/questions/1330539/the-cleanest-way-to-compile-ubuntu-from-scratch </br>
 gem5 has tutorials how to compile 32-Bit Ubuntu </br>
+https://cirosantilli.com/linux-kernel-module-cheat/#buildroot-hello-world </br>
 [wiki](https://en.wikipedia.org/wiki/Gem5).[0](https://www.gem5.org/documentation/general_docs/architecture_support/).[00](https://gem5bootcamp.github.io/gem5-bootcamp-env/modules/using%20gem5/index/).[1](https://www.gem5.org/documentation/gem5-stdlib/x86-full-system-tutorial).[2](https://vlsiarch.ecen.okstate.edu/gem5/).[3](https://www.gem5.org/documentation/learning_gem5/part1/simple_config/) </br>
 https://askubuntu.com/questions/64731/installing-apt-cacher-server-for-two-ubuntu-versions/70644#70644 </br>
