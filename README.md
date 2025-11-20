@@ -79,7 +79,7 @@ https://serverspace.io/support/help/configure-repositories-on-ubuntu-20-04/ </br
 https://stackoverflow.com/questions/47557262/how-to-download-the-torvalds-linux-kernel-master-recompile-it-and-boot-it-wi/49349237#49349237 </br>
 https://askubuntu.com/questions/1330539/the-cleanest-way-to-compile-ubuntu-from-scratch </br>
 gem5 has tutorials how to compile 32-Bit Ubuntu </br>
-https://web.archive.org/web/20210420062429/http://m5sim.org/O3CPU </br>
+https://web.archive.org/web/*/https://www.gem5.org/dist/current/x86/ </br>
 https://github.com/cirosantilli/linux-kernel-module-cheat </br>
 https://cirosantilli.com/linux-kernel-module-cheat/#buildroot-hello-world </br>
 https://buildroot.org/downloads/manual/manual.html [Downloads](https://buildroot.org/downloads/) </br>
